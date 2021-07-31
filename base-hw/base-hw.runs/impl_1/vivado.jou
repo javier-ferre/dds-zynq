@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Jul 20 15:24:20 2021
+# Process ID: 22388
+# Current directory: /home/javier/Development/zybo/base-hw/base-hw.runs/impl_1
+# Command line: vivado -log base_design_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source base_design_wrapper.tcl -notrace
+# Log file: /home/javier/Development/zybo/base-hw/base-hw.runs/impl_1/base_design_wrapper.vdi
+# Journal file: /home/javier/Development/zybo/base-hw/base-hw.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source base_design_wrapper.tcl -notrace
